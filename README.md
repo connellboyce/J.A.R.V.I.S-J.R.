@@ -1,2 +1,4 @@
 # J.A.R.V.I.S-J.R.
-J.A.R.V.I.S-J.R. (pronounced Jarvis Junior) is a Java-Based speech-recognition IoT application
+### Just A Really Very Intelligent System - Java Revision
+Name based on but not affiliated with Marvel Comics' J.A.R.V.I.S
+<hr>
